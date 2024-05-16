@@ -1,0 +1,7 @@
+jupyter
+tensorflow
+matplotlib
+nbconvert
+numpy==1.26.4
+scipy==1.13.0
+opencv-python
