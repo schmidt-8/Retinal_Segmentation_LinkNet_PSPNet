@@ -1,4 +1,6 @@
 jupyter
+torch
+torchvision
 tensorflow
 matplotlib
 nbconvert
