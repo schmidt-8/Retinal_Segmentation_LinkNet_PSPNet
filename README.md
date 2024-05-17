@@ -1,4 +1,18 @@
 # Retinal_Segmentation_LinkNet_PSPNet
+This repository contains source codes to all implementation done in this diplom thesis. 
+Tu successfuly test image segmentation follow these steps:
+
+1) Download repository content as .zip file
+2) Download pretrained models from https://drive.google.com/file/d/1QGT-qbTl1OLmH7JKAWEK9YUdeTQhtw9S/view?usp=sharing
+3) Unzip both .zip files
+4) Extract RetinalSegmentation folder
+5) Install virtual enviroment in this folder
+6) Install all dependncies in requirements.txt
+7) Move content from downloaded models from google drive to the RetinalSegmentation/Models according to README in RetinalSegmentation/Models.
+8) Open RetinalSegmentation.ipynb and run all cells
+9) Check your final results in Overlayed_Segmented_Masks and Segmented_Masks folders.
+
+   
 ```
 Retinal_Segmentation_LinkNet_PSPNet/                                                                                                                              
 ├── Data/                              # Folder to store pre-processed data from all three datasets                                     
